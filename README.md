@@ -9,7 +9,7 @@ Building scalable full-stack apps, integrating AI, and deploying across modern c
 - Focused on **React Front-end**, **JavaScript Back-end** and **AWS Architecture**
 - Lifelong learner, constantly exploring **Next.js**, **TypeScript**, and **AI integrations**
 
- **🛠Tech Stack**
+ **🛠 Tech Stack**
 ##
 **Frontend:** HTML, CSS, JavaScript/TypeScript, React, TailwindCSS, MaterialUI, Bootstrap, Next.js 
 **Backend:** Node.js, Express.js, Python, Django, REST APIs
