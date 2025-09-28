@@ -9,9 +9,8 @@ Hey there, I’m <a href="https://hermez.dev/">Hermez</a>! <img src="https://raw
 - Lifelong learner, constantly exploring **Next.js**, **TypeScript**, and **AI integrations**
 
  **🛠 Tech Stack**
-- **Frontend:** HTML, CSS, JavaScript/TypeScript, React, TailwindCSS, MaterialUI, Bootstrap, Next.js 
-- **Backend:** Node.js, Express.js, Python, Django, REST APIs
-- **Database:** MongoDB, MySQL, PostgreSQL  
-- **Cloud & DevOps:** AWS, GitHub, Docker, Kubernetes, Vercel, Railway  
-- **Testing:** Postman, Insomnia, Jest, React Testing Library
-- **Design:** Figma, Procreate 
+- **Frontend:** HTML, CSS, JavaScript, React, Next.js, TypeScript, SCSS, TailwindCSS
+- **Backend:** Node.js, Express.js, Python, Django, REST API, Prisma, FastAPI 
+- **Database:** MongoDB, PostgreSQL, MySQL, Aurora RDS, Aurora DSQL, DynamoDB
+- **Cloud & DevOps:** AWS (General) Docker, Kubernetes, Vercel, Railway 
+- **Tools:** Git, GitHub, Postman, Jest, React Testing Library, Figma, AWS SDK
